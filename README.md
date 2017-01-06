@@ -1,2 +1,2 @@
 # StateDialog
-<img src="./gif/StateDialog.png" width="40%" height="40%" />
+<img src="./gif/StateDialog.gif" width="40%" height="40%" />
